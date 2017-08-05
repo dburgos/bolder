@@ -7,7 +7,7 @@
 ![Ghost version](https://img.shields.io/badge/Ghost-0.10.x-brightgreen.svg?style=flat-square)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)
 
-[v2.0](https://github.com/dburgos/bolder/releases/tag/v2.0) compatible with:
+[v2.x](https://github.com/dburgos/bolder/releases/tag/v2.0) compatible with:
 ![Ghost version](https://img.shields.io/badge/Ghost-1.x-brightgreen.svg?style=flat-square)
 
 > A theme for Ghost (forked from Odin).
