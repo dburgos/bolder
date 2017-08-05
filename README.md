@@ -1,10 +1,14 @@
 # Bolder
 
+[v1.0](https://github.com/dburgos/bolder/releases/tag/v1.0) compatible with:
 ![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.8.x-brightgreen.svg?style=flat-square)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.9.x-brightgreen.svg?style=flat-square)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.10.x-brightgreen.svg?style=flat-square)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)
+
+[v2.0](https://github.com/dburgos/bolder/releases/tag/v1.0) compatible with:
+![Ghost version](https://img.shields.io/badge/Ghost-1.x-brightgreen.svg?style=flat-square)
 
 > A theme for Ghost (forked from Odin).
 
